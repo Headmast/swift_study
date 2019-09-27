@@ -1,0 +1,26 @@
+{
+  "train_number": "string",
+  "stops": [
+    {
+      "city_id": "string",
+      "name": "string",
+      "date_time": "2019-09-27T18:58:41.659Z",
+      "duration": 0,
+      "cafes": [
+        {
+          "id": "string",
+          "name": "string",
+          "city_id": "string",
+          "positions": [
+            {
+              "id": "string",
+              "name": "string",
+              "price": 0,
+              "image_url": "string"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
